@@ -1,4 +1,4 @@
-# Wordle
+# Backend APIs
 
 [Wordle][1] is a popular online word game built by a single developer as a side project and recently sold to the New York Times for an undisclosed sum. If you have not played Wordle, first take a break and try it, then come back and finish reading this document.
 
